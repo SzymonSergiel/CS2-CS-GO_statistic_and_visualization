@@ -8,6 +8,6 @@ Celem projektu było zebranie danych dotyczących statystyk graczy  poprzez scra
 - Tworzenie wizualizacji przygotowanych danych w formie wykresów i tabel
 - Analiza spadków/wzrostu graczy w CS
 - Wyciągnięcie wniosków i podsumowanie najważniejszych obserwacji
-Narzędzia
+# Narzędzia
 - R – analiza danych i wizualizacje
 - Quarto – generowanie raportu
